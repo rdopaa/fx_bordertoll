@@ -1,5 +1,6 @@
 # fx_bordertoll
 
+PAID MAP. Get it here: (SOON)
 Border in Middle Map of GTA V with Toll
 
 ![image](https://github.com/user-attachments/assets/b1dd864f-0afb-4cd1-844e-5c7b03e3a3d2)
